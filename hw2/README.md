@@ -10,10 +10,12 @@ The network architecture is pretty much the same as in A. except that I removed 
 A subset of human face dataset CelebA with 38464 64x64 images.
 ### Result
 #### A. 
-![](https://hackmd.io/_uploads/rkDvssyF2.jpg)
+![method1](https://github.com/d0703887/NTU-DLCV-2022/assets/112916328/f95f4b80-cb5e-4d42-a8b2-6038ce6a21d2)
+
 
 #### B.
-![](https://hackmd.io/_uploads/HJkujsJtn.jpg)
+![method2](https://github.com/d0703887/NTU-DLCV-2022/assets/112916328/cb2d8f56-7be6-44fc-8380-7c0f86774509)
+
 
 ## Problem 2: Diffusion Model
 Implement a Conditional Diffusion Model from scratch and train it on MNIST-M dataset. Given conditional label 0-9, generate corresponding digit images.
@@ -28,9 +30,11 @@ By feeding given conditional label into U-net blocks, we can generated condition
 MNIST-M, 56000 digit images with 10 classes(0-9).
 
 ### Result
-![](https://hackmd.io/_uploads/By86Aikt2.jpg)
+![1688350379142](https://github.com/d0703887/NTU-DLCV-2022/assets/112916328/fd0fc2e7-8e7d-4d37-9cf1-de6e182c157f)
+
 - Reverse Process
-![](https://hackmd.io/_uploads/HywBy2kF3.jpg)
+
+![1688350516701](https://github.com/d0703887/NTU-DLCV-2022/assets/112916328/6115eee6-41d4-4fb8-8d67-655a11060869)
 
 
 ## Problem 3: Domain Adaptation
